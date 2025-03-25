@@ -13,7 +13,7 @@ int main() {
       }
     else
       {
-          printf("smallest number is %d\n",b);
+          printf("smallest numbe is %d\n",b);
       } 
 
  return 0;
